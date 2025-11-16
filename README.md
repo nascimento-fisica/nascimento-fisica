@@ -3,7 +3,7 @@ Possuo graduação em Física pela Universidade Federal do Amapá (UNIFAP). As m
 
 - 👨🏻‍💻 **Professor** de Física
 - 🧗🏼 **Pós Graduado em Robótica Educacional**
-- 📸 Também Estudo **Ciência de Dados, Eng. Civil, Defesa Cibernética** 
+- 📸 Também Estudo **Ciência de Dados, Eng. Civil** 
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
