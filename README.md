@@ -1,5 +1,5 @@
 ### Rone Nascimento 
-Possuo graduação em Física pela Universidade Federal do Amapá (UNIFAP). As minhas áreas de interesse são: Física Estatística e Física Computacional. Atualmente, faço parte do grupo de pesquisa Materiais Amazônicos atuando com o seguinte tema: Simulação computacional de Nanosuperficies utilizando técnicas de Física Estatística. Possuo habilidades nas seguintes linguagens de programação: Python e R.
+Possuo graduação em Física pela Universidade Federal do Amapá (UNIFAP). As minhas áreas de interesse são: Física Estatística e Física Computacional. Atualmente, faço parte do grupo de pesquisa Física Aplicada e Modelagem Computacional atuando com o seguinte tema: Simulação computacional de Nanosuperficies utilizando técnicas de Física Estatística. Possuo habilidades nas seguintes linguagens de programação: Python e R.
 
 - 👨🏻‍💻 **Professor** de Física
 - 🧗🏼 **Pós Graduado em Robótica Educacional**
